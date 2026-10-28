@@ -365,24 +365,23 @@ arXiv
 
 ### 9.4 Examples of LLM families
 
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/bd3bde1c-c00e-4793-b3a8-0294d091b641" />
+
 
 GPT (Generative Pre-trained Transformer)
 
 Primarily associated with decoder-based models that generate text by predicting the next token. GPT models are used for conversational AI, writing, reasoning, and code assistance.
 
-[Linha do tempo de marcos da inteligência artificial](https://images.openai.com/static-rsc-4/yaj4V347QwMeSrrjcSLcHGUJ6fAUrdHlnmwc3F8cK2mCgjGc2IO0dywbK72thmK_viSMj9Kjj1BnSma-JxhY9W4TlrfnawIbtMMNlYsvfFYmvQDdb-Yssmjkswmd7s2oqtM5JbU_DN1kkJILwk4tterspa8uu_bpjc_J7ggiThk?purpose=inline)
+<img width="980" height="980" alt="image" src="https://github.com/user-attachments/assets/54a7243a-03b5-4d74-8d18-e093e3f2b166" />
+
 
 BERT (Bidirectional Encoder Representations from Transformers)
 
-Uses an encoder-based Transformer to represent text using information from both left and right context. It is particularly useful for language understanding, classification, and extractive question answering.&#x20;
-
-[image](https://www.google.com/s2/favicons?domain=https://arxiv.org\&sz=32)
-
-arXiv
+Uses an encoder-based Transformer to represent text using information from both left and right context. It is particularly useful for language understanding, classification, and extractive question answering.
 
 
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/c9f3aed5-2004-41f9-96c7-49376261ccae" />
 
-["Comparing BERT, GPT, T5, and XLNet Architectures" | AI Tutorial | Next Electronics](https://images.openai.com/static-rsc-4/WVcDkHFx0i3brEMmlP-4cZXQrVNAseZwYXnP9gMujR9EuVwDJ5lAcQZ1aA16O12P5muYpdWHOD3ZueRk9h6IXDeOBQG5WuzCA_Hl1rCZimTsDh4kpB7ctaSZr1wFzqvyQ3Rx_fWO6H_hmVuNxpCN9j7TgocwsQamNCFQyoLItC0?purpose=inline)
 
 T5 (Text-to-Text Transfer Transformer)
 
@@ -392,13 +391,7 @@ Frames many language tasks as text-to-text problems. For example, a summarizatio
 
 ### 10.1 Transformer architecture
 
-The Transformer was introduced by Vaswani and colleagues in 2017. It replaced recurrent processing in the original architecture with attention-based mechanisms, enabling more parallelizable training.&#x20;
-
-[image](https://www.google.com/s2/favicons?domain=https://arxiv.org\&sz=32)
-
-arXiv
-
-
+The Transformer was introduced by Vaswani and colleagues in 2017. It replaced recurrent processing in the original architecture with attention-based mechanisms, enabling more parallelizable training.
 
 Its major components include:
 
@@ -571,7 +564,7 @@ Training establishes the model's learned parameters. Inference uses those parame
 
 Generative AI has applications across education, software development, business, healthcare, research, media, and engineering.
 
-[Privacy-Compliant Chatbots: Building Trust in the GDPR Era](https://images.openai.com/static-rsc-4/StemqLv8RtJ5NP-j_C4Xl20vaAmy1Q1GjUoDvNgwVLcJb1wdQydaY9wVkC7GuhyMO2OOPuf3ejLIY92n1gScvnu4JolDIzPQcpzlQpWTae6uN9TsvVUvh0fKdNmzq2SYCQbo99Fis6s2C_LL6pOiXoJDLwn4vyoFAv_GBiIzJhg?purpose=inline)
+<img width="1024" height="786" alt="image" src="https://github.com/user-attachments/assets/e4ba178d-d17f-4885-9051-2310baf6ce8a" />
 
 12.1 Conversational AI and chatbots
 
@@ -579,7 +572,8 @@ Generative AI powers conversational assistants that answer questions, explain co
 
 Example: A university chatbot answering questions about courses and examination procedures.
 
-[How to Generate AI Images: The Essential Guide](https://images.openai.com/static-rsc-4/RPcnXLWmqZq_KbxnIqG9exXOgyCFWNM-23eCOpg9q7i5v_ls2i-zVQhFovptevZpVQk5OzQ6UPX8BvQ4i662C7QzBaeraztlH2NV5kUZcL2YEll2aBYR0tRVMN7WEnLgnjQZUtVoF_jzWdrgxtL2uKV3gcYkdE0v4kAStWdtt2U?purpose=inline)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/b03175f6-2c6e-4b38-951b-f2f657e5836e" />
+
 
 12.2 Image and video generation
 
@@ -587,7 +581,8 @@ Generative models create illustrations, advertisements, design concepts, animati
 
 Example: Creating a visual prototype for a product before manufacturing.
 
-[How to Use GitHub Copilot to Code Faster — Edu AI Blog](https://images.openai.com/static-rsc-4/fnG_rbhjUrgx8Ti6L4mka0Eq6ndaFP3VANT864EdB1LaVy4TUEM6Q8pDtQBCWF6EaBzcQm8nrOFF4rWu97oIA4wygN9O_FnyPPiX8L8fsnq-VIMVR0oqi6R0qDLCpVPkSymig5GArKzLmrKgvmghhf--u7vMuz7duZ85C_Txr6Y?purpose=inline)
+<img width="500" height="333" alt="image" src="https://github.com/user-attachments/assets/ae5b85bc-1358-47b3-b2a4-18dac62a7916" />
+
 
 12.3 Software development
 
@@ -595,7 +590,8 @@ LLMs can explain code, generate functions, suggest tests, identify potential def
 
 Example: Generating unit tests for a Java program and explaining the results.
 
-[Students say AI improves their performance, but most institutions lack formal AI policies - eCampus News](https://images.openai.com/static-rsc-4/2I883Q7537IfBe1kValPutBHo59gR0MBw6C7IXzyKXorK3hocrTfzTD8GNaDGz6aX5MBLAYHfGq8m4mUWqV8whNgq2TJ6CigoKMMZXDXedGFD6tQBxbSVH33dEvK6frhQ6S-zGuOucHZjiISjzypBpEyzsNCvjYd70g9wGGrHs4?purpose=inline)
+<img width="500" height="333" alt="image" src="https://github.com/user-attachments/assets/c9b6bd6f-9710-4e1d-b808-15bcdedb04d5" />
+
 
 12.4 Education
 
@@ -603,7 +599,8 @@ AI can personalize explanations, create practice questions, summarize lessons, a
 
 Example: Explaining Transformer attention using a simple analogy and practice exercises.
 
-[Evidence synthesis: what every student (and researcher) should know | THE Campus Learn, Share, Connect](https://images.openai.com/static-rsc-4/U03dXjxXIEalxGaAu2_ZonOWqkU0LX_5tuRM1-VnPmPlxwGWhci9oQWPP0S6BAYelErM55q7hn6hAaNVn5D9iQTZ9LtjptOQL9FxkF2CT6tAdDKWzQFccNNCYwEF27u9srziVL7Nj-0k-Ijr8u57nS4CMMf-ctkkuWJ9HhdYfdg?purpose=inline)
+<img width="664" height="443" alt="image" src="https://github.com/user-attachments/assets/57313d59-220e-4ff8-b69d-af1b023e91eb" />
+
 
 12.5 Healthcare and scientific research
 
@@ -611,7 +608,8 @@ Generative AI can assist with medical documentation, scientific literature revie
 
 Example: Drafting a summary of scientific papers for review by a researcher. Clinical decisions require appropriate professional oversight.
 
-[What's the Difference Between Data Analytics & Data Science?](https://images.openai.com/static-rsc-4/GubwUjrekL3mfIMwOwa52rHN-VZ-7fBi9Ylo1Q2pDRKCL2cVlU5Q3KfUDFpZfhvY2KHWnUn-l-IhM0NmmycevPvjDGHZEyKjalHWoHl_pgRYhqcsU305CaHxYJt0fLvkUV8RhhGMC4FuYb071l0-2yLakMPBmY8d9K9KuX76gKo?purpose=inline)
+<img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/b79685cc-bc4f-45b5-965d-34f3147e47aa" />
+
 
 12.6 Business and productivity
 
@@ -674,12 +672,7 @@ Larger, well-trained models can learn more complex linguistic patterns and conte
 
 Better performance across tasks
 
-Scaling can improve translation, summarization, coding, and question answering. GPT-3 research also demonstrated stronger few-shot performance at larger scales.&#x20;
-
-[image](https://www.google.com/s2/favicons?domain=https://arxiv.org\&sz=32)
-
-arXiv
-
+Scaling can improve translation, summarization, coding, and question answering. GPT-3 research also demonstrated stronger few-shot performance at larger scales.
 
 
 Emergent capabilities
@@ -696,13 +689,7 @@ Larger models usually require more accelerator memory, training compute, storage
 
 ### 13.4 Why data and compute must scale together
 
-A major finding from Hoffmann and colleagues' Chinchilla research was that many large language models were undertrained relative to their parameter count. Their results showed that allocating more training tokens to a smaller model could outperform a larger model trained with fewer tokens under a comparable compute budget.&#x20;
-
-[image](https://www.google.com/s2/favicons?domain=https://doi.org\&sz=32)
-
-DOI+1
-
-
+A major finding from Hoffmann and colleagues' Chinchilla research was that many large language models were undertrained relative to their parameter count. Their results showed that allocating more training tokens to a smaller model could outperform a larger model trained with fewer tokens under a comparable compute budget.
 
 This leads to an important conclusion:
 
@@ -724,20 +711,10 @@ The following table illustrates the general trade-offs. It is a conceptual compa
 
 ### 13.6 GPT-3 and GPT-4 as examples
 
-GPT-3 was reported in its 2020 paper as having 175 billion parameters. Its research demonstrated that a sufficiently scaled language model could perform multiple tasks from textual instructions and examples.&#x20;
-
-[image](https://www.google.com/s2/favicons?domain=https://arxiv.org\&sz=32)
-
-arXiv
+GPT-3 was reported in its 2020 paper as having 175 billion parameters. Its research demonstrated that a sufficiently scaled language model could perform multiple tasks from textual instructions and examples.
 
 
-
-GPT-4's 2023 technical report described a Transformer-based model trained to predict the next token and reported capabilities across text and image inputs. The report did not disclose the model's parameter count, so a direct parameter-count comparison between GPT-3 and GPT-4 cannot be established from those reports.&#x20;
-
-[image](https://www.google.com/s2/favicons?domain=https://arxiv.org\&sz=32)
-
-arXiv
-
+GPT-4's 2023 technical report described a Transformer-based model trained to predict the next token and reported capabilities across text and image inputs. The report did not disclose the model's parameter count, so a direct parameter-count comparison between GPT-3 and GPT-4 cannot be established from those reports.
 
 
 | Aspect                 | GPT-3 research report                   | GPT-4 technical report                                            |
@@ -863,8 +840,7 @@ The following academic papers provide foundational research for this report.
 
 9\. OpenAI. (2023). GPT-4 Technical Report. [Read the technical report](https://arxiv.org/abs/2303.08774?utm_source=chatgpt.com).
 
-## 18. Result
-
-The comprehensive report on the fundamentals of Generative AI and Large Language Models was prepared successfully. The foundational concepts, architectures, applications, training methods, scaling effects, limitations, ethical considerations, and future trends were studied and documented with relevant examples and academic references.
 
 # Result
+
+The comprehensive report on the fundamentals of Generative AI and Large Language Models was prepared successfully. The foundational concepts, architectures, applications, training methods, scaling effects, limitations, ethical considerations, and future trends were studied and documented with relevant examples and academic references.
