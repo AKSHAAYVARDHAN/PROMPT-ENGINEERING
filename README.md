@@ -1,6 +1,10 @@
 # Ex-1 Comprehensive Report on the Fundamentals of Generative AI and Large Language Models
+```
+Name: Akshaay Vardhan S
+Reg No.: 212224220007
+```
 
-## Aim:	Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
+# Aim:	Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
 Experiment:
 Develop a comprehensive report for the following exercises:
 1.	Explain the foundational concepts of Generative AI. 
@@ -8,7 +12,7 @@ Develop a comprehensive report for the following exercises:
 3.	Generative AI applications.
 4.	Generative AI impact of scaling in LLMs.
 
-## Algorithm: 
+# Algorithm: 
 
 ### Step 1: Define Scope and Objectives
 1.1 Identify the goal of the report (e.g., educational, research, tech overview)
@@ -555,7 +559,8 @@ Generative models create illustrations, advertisements, design concepts, animati
 
 Example: Creating a visual prototype for a product before manufacturing.
 
-<img width="500" height="333" alt="image" src="https://github.com/user-attachments/assets/ae5b85bc-1358-47b3-b2a4-18dac62a7916" />
+<img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/8e77421b-5bc6-4310-8cb0-524a5ae17042" />
+
 
 
 12.3 Software development
