@@ -6,11 +6,14 @@ Develop a comprehensive report for the following exercises:
 3.	Generative AI applications.
 4.	Generative AI impact of scaling in LLMs.
 
-# Algorithm: Step 1: Define Scope and Objectives
+# Algorithm: 
+
+### Step 1: Define Scope and Objectives
 1.1 Identify the goal of the report (e.g., educational, research, tech overview)
 1.2 Set the target audience level (e.g., students, professionals)
 1.3 Draft a list of core topics to cover
-Step 2: Create Report Skeleton/Structure
+
+### Step 2: Create Report Skeleton/Structure
 2.1 Title Page
 2.2 Abstract or Executive Summary
 2.3 Table of Contents
@@ -27,35 +30,33 @@ Step 2: Create Report Skeleton/Structure
 •	Future Trends
 2.6 Conclusion
 2.7 References
-________________________________________
-Step 3: Research and Data Collection
+
+### Step 3: Research and Data Collection
 3.1 Gather recent academic papers, blog posts, and official docs (e.g., OpenAI, Google AI)
 3.2 Extract definitions, explanations, diagrams, and examples
 3.3 Cite all sources properly
-________________________________________
-Step 4: Content Development
+
+### Step 4: Content Development
 4.1 Write each section in clear, simple language
 4.2 Include diagrams, figures, and charts where needed
 4.3 Highlight important terms and definitions
 4.4 Use examples and real-world analogies for better understanding
-________________________________________
-Step 5: Visual and Technical Enhancement
+
+### Step 5: Visual and Technical Enhancement
 5.1 Add tables, comparison charts (e.g., GPT-3 vs GPT-4)
 5.2 Use tools like Canva, PowerPoint, or LaTeX for formatting
 5.3 Add code snippets or pseudocode for LLM working (optional)
-________________________________________
-Step 6: Review and Edit
+
+### Step 6: Review and Edit
 6.1 Proofread for grammar, spelling, and clarity
 6.2 Ensure logical flow and consistency
 6.3 Validate technical accuracy
 6.4 Peer-review or use tools like Grammarly or ChatGPT for suggestions
-________________________________________
-Step 7: Finalize and Export
+
+### Step 7: Finalize and Export
 7.1 Format the report professionally
 7.2 Export as PDF or desired format
 7.3 Prepare a brief presentation if required (optional)
-
-
 
 # Output
 
@@ -149,32 +150,8 @@ Generative AI refers to AI systems that learn the underlying patterns or probabi
 For example, after learning from a large collection of text, a language model can generate an original explanation of a scientific concept. After learning from images, an image-generation model can create a new image based on a description.
 
 ### 7.2 How Generative AI works
+<img width="970" height="582" alt="image" src="https://github.com/user-attachments/assets/fd9ac672-2413-493d-b3a9-2341692de65a" />
 
-The general process consists of four stages:
-
-### 1
-
-### Data Collection
-
-Gather text, images, audio, code, or other training examples.
-
-### 2
-
-### Model Training
-
-Learn patterns and relationships in the data by adjusting model parameters.
-
-### 3
-
-### Prompt or Input
-
-Receive a user instruction, text description, or other input.
-
-### 4
-
-### Content Generation
-
-Generate an output using the learned patterns and input conditions.
 
 ### 7.3 Important concepts
 
@@ -355,17 +332,12 @@ A model does not necessarily retrieve a stored paragraph. It generates output ba
 - Instruction following: Uses additional training to respond more appropriately to user requests.
 - Multimodal capability: Some LLM-based systems can process images, audio, and other modalities in addition to text.
 
-GPT-3 demonstrated that scaling language models can improve their ability to perform tasks from instructions or a few examples without task-specific fine-tuning.&#x20;
-
-[image](https://www.google.com/s2/favicons?domain=https://arxiv.org\&sz=32)
-
-arXiv
-
+GPT-3 demonstrated that scaling language models can improve their ability to perform tasks from instructions or a few examples without task-specific fine-tuning.
 
 
 ### 9.4 Examples of LLM families
 
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/bd3bde1c-c00e-4793-b3a8-0294d091b641" />
+<img width="612" height="597" alt="image" src="https://github.com/user-attachments/assets/42fea54c-db74-43b7-8546-e0b10ff01ca6" />
 
 
 GPT (Generative Pre-trained Transformer)
@@ -643,24 +615,14 @@ A parameter is a learned numerical value within a neural network. Increasing the
 
 ### 13.2 Scaling laws
 
-Research by Kaplan and colleagues found predictable relationships between language-model loss and factors such as model size, dataset size, and training compute over studied ranges. These relationships are commonly called scaling laws.&#x20;
-
-[image](https://www.google.com/s2/favicons?domain=https://arxiv.org\&sz=32)
-
-arXiv
-
+Research by Kaplan and colleagues found predictable relationships between language-model loss and factors such as model size, dataset size, and training compute over studied ranges. These relationships are commonly called scaling laws.
 
 
 A simplified conceptual expression is:
 
-\\[ L \approx L\_{\infty}+A N^{-\alpha} \\]
+<img width="912" height="272" alt="image" src="https://github.com/user-attachments/assets/47e37da8-d440-48f7-8cdc-688638473645" />
 
-Where:
 
-- \\(L\\) is the model's loss.
-- \\(L\_{\infty}\\) represents an estimated irreducible loss for the setting.
-- \\(N\\) is a scaling variable, such as model size.
-- \\(A\\) and \\(\alpha\\) are fitted constants.
 
 This equation illustrates how loss can decrease as a resource increases under particular experimental conditions. Real scaling relationships depend on the model, data, compute budget, and training setup.
 
